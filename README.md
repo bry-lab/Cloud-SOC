@@ -1,3 +1,6 @@
+Mini Azure Honeynet
+Goal: Setup a network of Virtual Machines in Azure and record security alerts before and after applying cybersecurity frameworks. 
+
 # Securing a mini honeynet in Azure
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
